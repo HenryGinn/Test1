@@ -6,4 +6,5 @@
 *.toc
 *.gz
 *.lock
+*.aux
 Test1.pdf
